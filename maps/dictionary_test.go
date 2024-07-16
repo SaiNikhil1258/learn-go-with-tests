@@ -1,6 +1,8 @@
 package maps
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestSearch(t *testing.T) {
 	dictionary := Dictionary{"test": "This is just a text"}
@@ -59,8 +61,9 @@ func TestUpdate(t *testing.T) {
 func TestDelete(t *testing.T) {
 	word := "test"
 	dictionary := Dictionary{word: "test definition"}
-	dictionary.Delete(word)
-	_, err := dictionary.Search(word)
+	err := dictionary.Delete(word)
+	assertError(t, err, nil)
+	_, err = dictionary.Search(word)
 	assertError(t, err, ErrNotFound)
 }
 
