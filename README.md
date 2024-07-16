@@ -1,8 +1,6 @@
 # Learn Go with Tests
 
-<p align="center">
-  <img src="red-green-blue-gophers-smaller.png" />
-</p>
+
 
 [Art by Denise](https://twitter.com/deniseyu21)
 
