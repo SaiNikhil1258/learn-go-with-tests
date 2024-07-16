@@ -6,23 +6,7 @@
 - [Gitbook](https://quii.gitbook.io/learn-go-with-tests)
 - [EPUB or PDF](https://github.com/quii/learn-go-with-tests/releases)
 
-## Translations
 
-- [中文](https://studygolang.gitbook.io/learn-go-with-tests)
-- [Português](https://larien.gitbook.io/aprenda-go-com-testes/)
-- [日本語](https://andmorefine.gitbook.io/learn-go-with-tests/)
-- [한국어](https://miryang.gitbook.io/learn-go-with-tests/)
-- [Türkçe](https://halilkocaoz.gitbook.io/go-programlama-dilini-ogren/)
-- [فارسی](https://go-yaad-begir.gitbook.io/go-ba-test/)
-
-## Support me
-
-I am proud to offer this resource for free, but if you wish to give some appreciation:
-
-- [Tweet me @quii](https://twitter.com/quii)
-- <a rel="me" href="https://mastodon.cloud/@quii">Mastodon</a>
-- [Buy me a coffee :coffee:](https://www.buymeacoffee.com/quii)
-- [Sponsor me on GitHub](https://github.com/sponsors/quii)
 
 ## Why
 
